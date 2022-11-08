@@ -2,7 +2,7 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-sm-6">
-              <p>GIKI MEDAN&copy; 2018</p>
+              <p>HKBP CILUAR&copy; 2022</p>
             </div>
             <div class="col-sm-6 text-right">
               <p>Devoloper <a href="https://layanancoding.com" class="external">Delisman Hulu</a></p>

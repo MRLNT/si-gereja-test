@@ -10,20 +10,19 @@
 								<a href="index.php" class="d-flex flex-column align-items-center justify-content-center">
 									<div class="logo_content">
 										<div class="logo d-flex flex-row align-items-center justify-content-center">
-											<div class="logo_text">GIKI<span>MEDAN</span></div>
+											<div class="logo_text">HKBP<span>CILUAR</span></div>
 											<div class="logo_box">+</div>
 										</div>
-										<div class="logo_sub">GEREJA UMAT KRISTIANI</div>
 									</div>
 								</a>
 							</div>
 							<div class="footer_about_text">
-								<p>Mari datang beribadah di Gereja GIKI Medan</p>
+								<p>Mari datang beribadah di Gereja HKBP CILUAR</p>
 							</div>
 							<ul class="footer_about_list">
-								<li><div class="footer_about_icon"><img src="images/phone-call.svg" alt=""></div><span>+64 852-7794-8885</span></li>
-								<li><div class="footer_about_icon"><img src="images/envelope.svg" alt=""></div><span>gikimedan@gmail.com</span></li>
-								<li><div class="footer_about_icon"><img src="images/placeholder.svg" alt=""></div><span>Jln.Budi Kemasyarakatan No. 5 Pulo Brayan Kota, Medan</span></li>
+								<li><div class="footer_about_icon"><img src="images/phone-call.svg" alt=""></div><span>0896 - 3621 - 2669</span></li>
+								<li><div class="footer_about_icon"><img src="images/envelope.svg" alt=""></div><span>hkbpciluar@gmail.com</span></li>
+								<li><div class="footer_about_icon"><img src="images/placeholder.svg" alt=""></div><span>Jl. Raya Jakarta-Bogor, RT.02/RW.01, Ciujung, Kec. Sukaraja, Kota Bogor, Jawa Barat 16710</span></li>
 							</ul>
 						</div>
 					</div>
@@ -72,7 +71,7 @@
 				<div class="row">
 					<div class="col">
 						<div class="copyright_content d-flex flex-lg-row flex-column align-items-lg-center justify-content-start">
-							<div class="cr"> GIKI MEDAN <i aria-hidden="true"></i> Dev <a href="https://layanancoding.com" target="_blank">LC: Delisman Hulu </a>
+							<div class="cr"> HKBP CILUAR <i aria-hidden="true"></i> Dev <a href="https://layanancoding.com" target="_blank">LC: Delisman Hulu </a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></div>
 							<div class="footer_social ml-lg-auto">
 								<ul>

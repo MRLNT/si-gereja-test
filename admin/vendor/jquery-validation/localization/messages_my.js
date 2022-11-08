@@ -13,8 +13,8 @@
  * Locale: MY (Malay; Melayu)
  */
 $.extend( $.validator.messages, {
-	required: "Medan ini diperlukan.",
-	remote: "Sila betulkan medan ini.",
+	required: "Tempat ini diperlukan.",
+	remote: "Sila betulkan tempat ini.",
 	email: "Sila masukkan alamat emel yang betul.",
 	url: "Sila masukkan URL yang betul.",
 	date: "Sila masukkan tarikh yang betul.",

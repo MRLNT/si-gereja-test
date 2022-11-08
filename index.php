@@ -4,7 +4,7 @@
 
 	<!-- Home -->
 <head>
-	<title>Gereja Injil Kristus Indonesia GIKI</title>
+	<title>Huria Kristen Batak Protestan HKBP</title>
 </head>
 	<div class="home">
 		<div class="home_slider_container">
@@ -19,9 +19,9 @@
 							<div class="row">
 								<div class="col">
 									<div class="home_content_inner">
-										<div class="home_title"><h1>GEREJA GIKI MEDAN</h1></div>
+										<div class="home_title"><h1>GEREJA HKBP CILUAR</h1></div>
 										<div class="home_text">
-											<!-- <p>GEREJA GIKI MERUPAKAN GERAJA YANG MEMILIKI JEMAAT </p> -->
+											<!-- <p>GEREJA HKBP MERUPAKAN GEREJA YANG MEMILIKI JEMAAT </p> -->
 										</div>
 										<div class="button home_button">
 											<a href="#">GESER>></a>
@@ -46,7 +46,7 @@
 											<p></p>
 										</div>
 										<div class="button home_button">
-											<a href="news_gereja.php">GIKI</a>
+											<a href="news_gereja.php">HKBP CILUAR</a>
 										</div>
 									</div>
 								</div>
@@ -112,24 +112,22 @@
 
 				<div class="col-lg-4 box_col">
 					<div class="box box_emergency">
-						<!-- <a href="tel:085277948885"> -->
 						<div class="box_icon d-flex flex-column align-items-start justify-content-center"><div style="width: 37px; height:37px; margin-left:-4px;"><img src="images/phone-call.svg" alt=""></div></div>
 						<div class="box_title">Emergency Konseling</div>
-						<!-- <div class="box_phone">+64852-7794-8885</div> -->
-						<div class="box_emergency_text">Pdt. Dr. Domianus, M.Th</div>
+						<div class="box_emergency_text">Paul Kevin</div>
 
 
-						 <a href="https://api.whatsapp.com/send?phone=6285277948885&amp;text=Hallo%20Bapak Pendata Gereja Injil  Kristus Indonesia (GIKI Medan), Nama : ,%20Saya%20:%20...">
+						 <a href="https://api.whatsapp.com/send?phone=6289636212669&amp;text=Hallo%20Bapak Pendeta HKBP CILUAR, Nama : ,%20Saya%20:%20...">
                         <span class="fa-stack fa-lg">
                   <i class="fa fa-circle fa-stack-2x"></i>
                   <i class="fa fa-whatsapp fa-stack-1x fa-inverse"></i>
-                   </span>Chat: 0852-7794-8885</a> 
+                   </span>Chat: 0896 - 3621 - 2669</a>
                    <br>
-                   	 <a href="tel:085277948885">
+                   	 <a href="tel:0896 - 3621 - 2669">
                         <span class="fa-stack fa-lg">
                   <i class="fa fa-circle fa-stack-2x"></i>
                   <i class="fa fa-phone fa-stack-1x fa-inverse"></i>
-                   </span>Call : 0852-7794-8885</a> 
+                   </span>Call : 0896 - 3621 - 2669</a> 
 
                <!-- </a> -->
 					</div>

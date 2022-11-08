@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Panel Administrator GIKI MEDAN </title>
+    <title>Panel Administrator HKBP CILUAR </title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
@@ -39,7 +39,7 @@
         <div class="sidenav-header d-flex align-items-center justify-content-center">
           <!-- User Info-->
           <div class="sidenav-header-inner text-center"><img src="img/progremmer.png" alt="person" class="img-fluid rounded-circle">
-            <h2 class="h5">Admin</h2><span>MEDAN</span>
+            <h2 class="h5">Admin</h2><span>CILUAR</span>
           </div>
           <!-- Small Brand information, appears on minimized sidebar-->
           <div class="sidenav-header-logo"><a href="master.php" class="brand-small text-center"> <strong>G</strong><strong class="text-primary">K</strong></a></div>
@@ -82,7 +82,7 @@
           <div class="container-fluid">
             <div class="navbar-holder d-flex align-items-center justify-content-between">
               <div class="navbar-header"><a id="toggle-btn" href="#" class="menu-btn"><i class="icon-bars"> </i></a><a href="master.php" class="navbar-brand">
-                  <div class="brand-text d-none d-md-inline-block"><span></span><strong class="text-primary">GIKI MEDAN</strong></div></a></div>
+                  <div class="brand-text d-none d-md-inline-block"><span></span><strong class="text-primary">HKBP CILUAR</strong></div></a></div>
               <ul class="nav-menu list-unstyled d-flex flex-md-row align-items-md-center">
                 <!-- Notifications dropdown-->
 

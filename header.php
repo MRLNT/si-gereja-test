@@ -33,9 +33,7 @@
 					<div class="col">
 						<div class="top_bar_content d-flex flex-row align-items-center justify-content-start">
 							<div class="top_bar_item"><a href="contanct.php">Alamat :</a></div>
-							<div class="top_bar_item"><a href="contanct.php">Jln.Budi Kemasyarakatan No. 5 Pulo Brayan Kota, Medan</a></div>
-							<!-- <div class="top_bar_item"><a href="#">Jln.Budi Kemasyarakatan No. 5 Pulo Brayan Kota, Medan</a></div> -->
-							<div class="emergencies  d-flex flex-row align-items-center justify-content-start ml-auto">Gembala Sidang : +62852-7794-8885</div>
+							<div class="top_bar_item"><a href="contanct.php">Jl. Raya Jakarta-Bogor, RT.02/RW.01, Ciujung, Kec. Sukaraja, Kota Bogor, Jawa Barat 16710</a></div>
 						</div>
 
 					</div>
@@ -56,7 +54,6 @@
 									<li><a href="galeri.php">GALERI</a></li>
 									<li><a href="video.php">VIDEO</a></li>
 									<li><a href="news_gereja.php">NEWS</a></li>
-									<li><a href="janji_iman.php">JANJI IMAN</a></li>
 									<li><a href="contact.php">CONTACT</a></li>
 								</ul>
 							</nav>
@@ -77,16 +74,15 @@
 								<div class="logo_content d-flex flex-column align-items-start justify-content-center">
 									<div class="logo_line"></div>
 									<div class="logo d-flex flex-row align-items-center justify-content-center">
-										<div class="logo_text">GIKI<span> MEDAN</span></div>
-										<!-- <div class="logo_box">+</div> -->
+										<div class="logo_text">HKBP <span>CILUAR</span></div>
 									</div>
-									<div class="logo_sub">Jl.B. Kemasyarakatan No 5</div>
+									<div class="logo_sub">Jl. Raya Jakarta-Bogor<br> Kota Bogor</div>
 								</div>
 							</a>
 						</div>
 					</div>
 				</div>
-			</div>	
+			</div>
 		</div>
 
 	</header>
@@ -104,28 +100,25 @@
 		<div class="menu_inner menu_mm">
 			<div class="menu menu_mm">
 				<ul class="menu_list menu_mm">
-				
 
-									<p class="menu_item menu_mm fa fa-home"><a href="index.php">  BERANDA</a></p>
-									<hr class="my-2">
-									<p class="menu_item menu_mm fa fa-bars"><a href="tentang.php"> PROFIL</a></p>
-									<hr class="my-2">
-									<p class="menu_item menu_mm fa fa-photo"><a href="galeri.php" > GALERI</a></p>
-									<hr class="my-2">
-									<p class="menu_item menu_mm fa fa-play"><a href="video.php"> VIDEO</a></p>
-										<hr class="my-2">
-									<p class="menu_item menu_mm fa fa-book"><a href="news_gereja.php"> NEWS</a></p>
-										<hr class="my-1">
-									<p class="menu_item menu_mm fa fa-user"><a href="janji_iman.php"> JANJI IMAN</a></p>
-										<hr class="my-1">
-									<p class="menu_item menu_mm fa fa-map-marker"><a href="contact.php"> CONTACT</a></p>
-										<hr class="my-1">
+					<p class="menu_item menu_mm fa fa-home"><a href="index.php">  BERANDA</a></p>
+					<hr class="my-2">
+					<p class="menu_item menu_mm fa fa-bars"><a href="tentang.php"> PROFIL</a></p>
+					<hr class="my-2">
+					<p class="menu_item menu_mm fa fa-photo"><a href="galeri.php" > GALERI</a></p>
+					<hr class="my-2">
+					<p class="menu_item menu_mm fa fa-play"><a href="video.php"> VIDEO</a></p>
+						<hr class="my-2">
+					<p class="menu_item menu_mm fa fa-book"><a href="news_gereja.php"> NEWS</a></p>
+						<hr class="my-1">
+					<p class="menu_item menu_mm fa fa-map-marker"><a href="contact.php"> CONTACT</a></p>
+						<hr class="my-1">
 
 				</ul>
 			</div>
 			<div class="menu_extra">
-				<div class="menu_appointment"><a href="#">Konsultasi Kepada Gembala</a></div>
-				<div class="menu_emergencies">HUB : 0852 - 7794 - 8885</div>
+				<div class="menu_appointment"><a href="#">Konsultasi Kepada Pendeta</a></div>
+				<div class="menu_emergencies">HUB : 0896 - 3621 - 2669</div>
 			</div>
 
 		</div>

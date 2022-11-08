@@ -2,7 +2,7 @@
 <head>
 <link rel="stylesheet" type="text/css" href="styles/contact.css">
 <link rel="stylesheet" type="text/css" href="styles/contact_responsive.css">
-<title>Contact GIKI Medan</title>
+<title>Contact HKBP CILUAR</title>
 </head>
 	<div class="home">
 		<div class="home_background parallax-window" data-parallax="scroll" data-image-src="img/slide/jemaat.jpg" data-speed="0.8"></div>
@@ -33,14 +33,14 @@
 
 				<!-- Contact Info -->
 				<div class="col-lg-6">
-					<div class="section_title"><h2>GEREJA INJIL KRISTUS INDONESIA MEDAN</h2></div>
+					<div class="section_title"><h2>HURIA KRISTEN BATAK PROTESTAN BOGOR</h2></div>
 					<div class="contact_text">
 						<p></p>
 					</div>
 					<ul class="contact_about_list">
-						<li><div class="contact_about_icon"><img src="images/phone-call.svg" alt=""></div><span>+62852-7794-8885</span></li>
-						<li><div class="contact_about_icon"><img src="images/envelope.svg" alt=""></div><span>gikimedan@gmail.com</span></li>
-						<li><div class="contact_about_icon"><img src="images/placeholder.svg" alt=""></div><span>Jln.Budi Kemasyarakatan No. 5 Pulo Brayan Kota, Medan</span></li>
+						<li><div class="contact_about_icon"><img src="images/phone-call.svg" alt=""></div><span>0896 - 3621 - 2669</span></li>
+						<li><div class="contact_about_icon"><img src="images/envelope.svg" alt=""></div><span>hkbpciluar@gmail.com</span></li>
+						<li><div class="contact_about_icon"><img src="images/placeholder.svg" alt=""></div><span>Jl. Raya Jakarta-Bogor, RT.02/RW.01, Ciujung, Kec. Sukaraja, Kota Bogor, Jawa Barat 16710</span></li>
 					</ul>
 				</div>
 

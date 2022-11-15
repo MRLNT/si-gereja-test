@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 08 Nov 2022 pada 10.59
+-- Waktu pembuatan: 15 Nov 2022 pada 13.16
 -- Versi server: 10.4.21-MariaDB
 -- Versi PHP: 7.4.25
 
@@ -133,6 +133,13 @@ CREATE TABLE `tbl_pesan` (
   `keterangan` int(11) NOT NULL COMMENT '0'
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
+--
+-- Dumping data untuk tabel `tbl_pesan`
+--
+
+INSERT INTO `tbl_pesan` (`kode`, `nama`, `hp`, `email`, `pesan`, `tanggal`, `keterangan`) VALUES
+(1, 'cxz', '081389925228', 'marcelantonio246@gmail.com', 'dasdasda', '2022-11-15', 1);
+
 -- --------------------------------------------------------
 
 --
@@ -171,7 +178,13 @@ CREATE TABLE `tbl_video` (
 INSERT INTO `tbl_video` (`kode`, `nama`, `alamat`) VALUES
 (3, 'Video Lagu - Lagu Rohani', 'kvF5QsrR1Z0'),
 (4, 'Lagu-Lau Rohani 2', 'kvF5QsrR1Z0'),
-(5, 'Video Ke COBA', 'cq4SUrLJfN8');
+(5, 'Video Ke COBA', 'cq4SUrLJfN8'),
+(7, '2', '-'),
+(8, '3', '-'),
+(9, '5', '-'),
+(10, '6', '-'),
+(11, '11', '-'),
+(12, '21', '-');
 
 --
 -- Indexes for dumped tables
@@ -251,7 +264,7 @@ ALTER TABLE `tbl_janji`
 -- AUTO_INCREMENT untuk tabel `tbl_pesan`
 --
 ALTER TABLE `tbl_pesan`
-  MODIFY `kode` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `kode` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT untuk tabel `tbl_user`
@@ -263,7 +276,7 @@ ALTER TABLE `tbl_user`
 -- AUTO_INCREMENT untuk tabel `tbl_video`
 --
 ALTER TABLE `tbl_video`
-  MODIFY `kode` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
+  MODIFY `kode` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

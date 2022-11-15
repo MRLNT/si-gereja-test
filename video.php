@@ -2,7 +2,7 @@
 <head>
 <link rel="stylesheet" type="text/css" href="styles/services.css">
 <link rel="stylesheet" type="text/css" href="styles/services_responsive.css">
-	<title>Daftar Video - GIKI</title>
+	<title>Daftar Video - HKBP CILUAR</title>
 </head>
 
 	<div class="home">
@@ -12,7 +12,7 @@
 				<div class="row">
 					<div class="col">
 						<div class="home_content">
-							<div class="home_title"><span>VIDEO</span> GIKI</div>
+							<div class="home_title"><span>VIDEO</span> HKBP </div>
 							<div class="breadcrumbs">
 								<ul>
 									<li><a href="index.php">Beranda</a></li>

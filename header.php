@@ -49,8 +49,8 @@
 						<div class="header_content d-flex flex-row align-items-center justify-content-start">
 							<nav class="main_nav ml-auto">
 								<ul>
-									<li><a href="index">BERANDA</a></li>
-									<li><a href="tentang">PROFIL</a></li>
+									<li><a href="index.php">BERANDA</a></li>
+									<li><a href="tentang.php">PROFIL</a></li>
 									<li><a href="galeri.php">GALERI</a></li>
 									<li><a href="video.php">VIDEO</a></li>
 									<li><a href="news_gereja.php">NEWS</a></li>

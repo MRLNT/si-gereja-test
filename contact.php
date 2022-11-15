@@ -5,7 +5,7 @@
 <title>Contact HKBP CILUAR</title>
 </head>
 	<div class="home">
-		<div class="home_background parallax-window" data-parallax="scroll" data-image-src="img/slide/jemaat.jpg" data-speed="0.8"></div>
+		<div class="home_background parallax-window" data-parallax="scroll" data-image-src="img/slide/jemaathkbp.jpg" data-speed="0.8"></div>
 		<div class="home_container">
 			<div class="container">
 				<div class="row">
@@ -114,10 +114,10 @@
 							<div id="google_map" class="google_map">
 								<div class="map_container">
 									<div id="map">
-										<!-- <iframe  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.8356631020224!2d98.67492329415798!3d3.6249936281043!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zM8KwMzcnMzAuMSJOIDk4wrA0MCcyOS44IkU!5e0!3m2!1sid!2sid!4v1537043333354" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> -->
+										
 
 
-										<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.852773461521!2d98.66890516369078!3d3.6211052679731277!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30313202ab8da46b%3A0x7065dd21d09b8e87!2sGiki!5e0!3m2!1sid!2sid!4v1537846152017" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+									<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2351.5104427486385!2d106.82776334897503!3d-6.542771095828436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c152f03d2d81%3A0xc393a6f825564ec6!2sHKBP%20Ciluar!5e0!3m2!1sen!2sid!4v1668504365353!5m2!1sen!2sid" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 									</div>
 								</div>
 							</div>

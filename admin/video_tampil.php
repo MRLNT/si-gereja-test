@@ -1,4 +1,3 @@
-
 <?php include'header.php';
 error_reporting(0); ?>
 
@@ -78,6 +77,7 @@ pagination li.active {
 					$sql = mysqli_query($konek, "SELECT * FROM tbl_video LIMIT ".$limit_start.",".$limit);
 					
 					$no = $limit_start + 1; // Untuk penomoran tabel
+					
 					while($data = mysqli_fetch_array($sql)){ // Ambil semua data dari hasil eksekusi $sql
 					?>
 						<tr>
@@ -106,7 +106,7 @@ pagination li.active {
 				<?php
 				if($page == 1){ // Jika page adalah page ke 1, maka disable link PREV
 				?>
-					<li class="disabled"><a href="#">SESUDAH</a></li>
+					<li class="disabled"><a href="#">SEBELUM</a></li>
 					<li class="disabled"><a href="#">&laquo;</a></li>
 				<?php
 				}else{ // Jika page bukan page ke 1

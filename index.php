@@ -13,7 +13,7 @@
 				
 				<!-- Slider Item -->
 				<div class="owl-item">
-					<div class="home_slider_background" style="background-image:url(img/slide/berdoa.jpg")></div>
+					<div class="home_slider_background" style="background-image:url(img/slide/depan.jpeg")></div>
 					<div class="home_content">
 						<div class="container">
 							<div class="row">
@@ -25,50 +25,6 @@
 										</div>
 										<div class="button home_button">
 											<a href="#">GESER>></a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<!-- Slider Item -->
-				<div class="owl-item">
-					<div class="home_slider_background" style="background-image:url(img/slide/gambarj.jpg")></div>
-					<div class="home_content">
-						<div class="container">
-							<div class="row">
-								<div class="col">
-									<div class="home_content_inner">
-										<div class="home_title"><h1>DOA MUJIZAT</h1></div>
-										<div class="home_text">
-											<p></p>
-										</div>
-										<div class="button home_button">
-											<a href="news_gereja.php">HKBP CILUAR</a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<!-- Slider Item -->
-				<div class="owl-item">
-					<div class="home_slider_background" style="background-image:url(img/slide/jemaat.jpg)"></div>
-					<div class="home_content">
-						<div class="container">
-							<div class="row">
-								<div class="col">
-									<div class="home_content_inner">
-										<div class="home_title"><h1>BERSATU DALAM TUHAN</h1></div>
-										<div class="home_text">
-											<p>..</p>
-										</div>
-										<div class="button home_button">
-											<a href="news_gereja.php">READ</a>
 										</div>
 									</div>
 								</div>
@@ -142,26 +98,35 @@
 	<div class="about">
 		<div class="container">
 			<div class="row row-lg-eq-height">
-				<div class="col-lg-7">
+				<div class="col-lg-6">
 					<div class="about_content">
-						<div class="section_title"><h2>Ingat Perpuluhan</h2></div>
+						<div class="section_title"><h2>Perpuluhan</h2></div>
 						<div class="about_text">
 							<h4 align="justify-content-center"> Ingatlah Untuk Mengembalikan Perpuluhan Karena Itulah Yang di Kehendaki Tuhan Yesus Kristus dan Kita Akan Semakin Diberkati Percayalah</h4>
 						</div>
 						<div class="button about_button">
-							<a href="#">MALEAKHI 3:10-11 </a>
+							<a href="#contact">MALEAKHI 3:10-11 </a>
 						</div>
 					</div>
 				</div>
-
-				<!-- About Image -->
-				<div class="col-lg-5">
-					<div class="about_image"><img src="img/slide/perpuluhan.jpg" alt=""></div>
+				<div class="col-lg-6">
+					<div class="about_content">
+						<div class="section_title"><h2>Warta Jemaat</h2></div>
+						<div class="about_text">
+							<h4 align="justify-content-center"> Unduh Warta ini untuk mendapatkan info seputar gereja minggu ini pada tombol dibawah.</h4>
+						</div>
+						<div class="button about_button">
+							<a href="file/warta25.pdf" download>Download</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
+
+
+
 	  <section id="contact" class="wow fadeInUp">
 	<div class="services">
 		<div class="container">
@@ -214,7 +179,7 @@
 					</div>
 				</div>
 			</div>
-		</div>		
+		</div>
 	</div>
 
 	<!-- Footer -->

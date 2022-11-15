@@ -5,8 +5,7 @@
               <p>HKBP CILUAR&copy; 2022</p>
             </div>
             <div class="col-sm-6 text-right">
-              <p>Devoloper <a href="https://layanancoding.com" class="external">Delisman Hulu</a></p>
-              <!-- Please do not remove the backlink to us unless you support further theme's development at https://bootstrapious.com/donate. It is part of the license conditions and it helps me to run Bootstrapious. Thank you for understanding :)-->
+              <p>Devoloper Paul Kevin</p>
             </div>
           </div>
         </div>

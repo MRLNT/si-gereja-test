@@ -32,7 +32,7 @@
 						<div class="footer_links footer_column">
 							<div class="footer_title">Daftar Kegatiatan</div>
 							<ul>
-								<li><a href="#">Ibadah Raya</a></li>
+								<li><a href="kegiatan_detail.php?id=TUlOR0dVLCAwMiBPS1RPQkVSIDIwMjI=">Ibadah Raya</a></li>
 								<li><a href="#">Latiahan Music</a></li>
 								<li><a href="#">Doa Syafaat</a></li>
 								<li><a href="#">Ibadah Doa Rumah Tangga</a></li>
@@ -71,14 +71,13 @@
 				<div class="row">
 					<div class="col">
 						<div class="copyright_content d-flex flex-lg-row flex-column align-items-lg-center justify-content-start">
-							<div class="cr"> HKBP CILUAR <i aria-hidden="true"></i> Dev <a href="https://layanancoding.com" target="_blank">LC: Delisman Hulu </a>
+							<div class="cr"> HKBP CILUAR <i aria-hidden="true"></i> Dev <a href="https://layanancoding.com" target="_blank">Paul Kevin</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></div>
 							<div class="footer_social ml-lg-auto">
 								<ul>
-									<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-									<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-									<li><a href="#"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-									<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+									<li><a href="https://en-gb.facebook.com/people/HKBP-Ciluar/100067936336704/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+									<li><a href="https://www.youtube.com/channel/UCRg3awJczmeEiPexikJUkKw"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+									<li><a href="https://www.instagram.com/rhkbpciluar/?hl=en"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
 								</ul>
 							</div>
 						</div>
